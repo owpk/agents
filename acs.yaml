@@ -1,0 +1,14 @@
+acs_version: "1.0"
+
+project:
+  name: "spring-boot-template"
+  description: "Reusable Spring Boot backend template (agent-native)"
+
+layers:
+  context: true
+  skills: true
+  agents: true
+  tasks: true
+  commands: true
+  permissions: true
+  mcp: true
